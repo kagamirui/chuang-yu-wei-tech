@@ -1,20 +1,20 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 创与惟科技官网
 
-# Run and deploy your AI Studio app
+创与惟科技官网静态站点，使用 Vite、React 和 Tailwind CSS 构建。
 
-This contains everything you need to run your app locally.
+## 本地运行
 
-View your app in AI Studio: https://ai.studio/apps/8356a1ad-c030-4e5c-ac1d-5ea2ba6a9d71
+```bash
+npm install
+npm run dev
+```
 
-## Run Locally
+## 构建
 
-**Prerequisites:**  Node.js
+```bash
+npm run build
+```
 
+构建产物输出到 `dist/`。当前线上站点通过 GitHub Pages 的 `gh-pages` 分支发布：
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+https://kagamirui.github.io/chuang-yu-wei-tech/
