@@ -1,0 +1,6 @@
+{
+  "name": "创与惟科技",
+  "description": "广州市创与惟信息科技有限公司官方网站。聚焦人工智能软件开发、网络技术、信息技术咨询与数字内容创意，以技术、内容与策略驱动企业数字化增长。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
